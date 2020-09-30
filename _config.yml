@@ -40,8 +40,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "y.tronggratok@gmail.com"
-  facebook: "www.facebook.com/giiftzii.chiichii"
-  github: "www.github.com/GiftfyDev"
+  facebook: www.facebook.com/giiftzii.chiichii
+  github: www.github.com/GiftfyDev
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://giftfy.github.io"
+url-pretty: "https://giftfydev.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

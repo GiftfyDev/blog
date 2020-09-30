@@ -57,7 +57,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.
-/@username
+# @username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 

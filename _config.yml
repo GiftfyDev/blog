@@ -15,10 +15,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://giftfydev.github.io/blog/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://giftfydev.github.io/blog/"
 
 # --- Logo --- #
 
@@ -63,7 +63,7 @@ round-avatar: true
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description:welcome to Giftfy website !
+rss-description: "welcome to Giftfy website !"
 
 # --- General options --- #
 
